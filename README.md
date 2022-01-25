@@ -1,5 +1,5 @@
 # kodluyoruz-HTML-odev
-Kodluyoruz Frontend 101 - HTML
+Kodluyoruz Frontend 101 - HTML Odevler
 
 ## Ödev 1
 ### İlk Web Sayfamızı Oluşturmak
